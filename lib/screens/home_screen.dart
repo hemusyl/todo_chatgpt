@@ -116,6 +116,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                 ),
+                SizedBox( height: 15,),
                 IconButton(
                   icon: const Icon(Icons.add),
                   onPressed: () {
